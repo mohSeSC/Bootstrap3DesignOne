@@ -68,7 +68,7 @@ $(document).ready(function () {
 
 // Loading Screen
 
-$(window).load(function () {
+$(window).on('load',function () {
     
     "use strict";
     
